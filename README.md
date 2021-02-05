@@ -13,7 +13,7 @@ Entre em contato comigo:
 Tenho conhecimento em:
 
 ### Linguagens de Programação:
- - PHP
+ - PHP                
  - JavaScript
  - TypeScript
  - CSS
