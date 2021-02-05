@@ -1,16 +1,97 @@
-### Hi there 👋
+Português 
 
-<!--
-**MatheusHenrique200302/MatheusHenrique200302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, Eu me chamo Matheus Santos
 
-Here are some ideas to get you started:
+Eu sou um desenvolvedor júnior curioso e entusiasmado que ama estudar programação, eu moro em Guaratinguetá-São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas Pela Faculdade Tecnológica de Guaratinguetá Professor João Mod
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre em contato comigo:
+
+- Email: mtssantos.contato@gmail.com
+- linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
+- Cel: +55 (12) 99647-4546
+
+Tenho conhecimento em:
+
+### Linguagens de Programação:
+ - PHP
+ - JavaScript
+ - TypeScript
+ - CSS
+ - Java
+ - C++
+ - C#
+ 
+ ### Frameworks e bibliotecas:
+ - Angular
+ - Laravel
+ - React
+ - Bootstrap
+ - NodeJS ( APIs e APIs REST)
+ - ExpressJS
+ - WordPress
+ 
+ ### Bancos de dados e Cloud Services:
+ - MySQL
+ - MongoDB
+ - Firebase 
+ - Vercel
+
+### Metodologias Ágeis:
+- Scrum
+
+### Ferramentas:
+- ConvertKit(newsletter)
+- Photoshop
+- Figma
+- ThunderBird
+
+English 
+
+
+## Hi,I'm Matheus Santos
+
+I am a curious and enthusiastic junior developer who loves to study programming, I live in Guaratinguetá-São Paulo. I am currently studying Systems Analysis and Development at Faculdade Tecnológica de Guaratinguetá Professor João Mod
+
+Contact me:
+
+- Email: mtssantos.contato@gmail.com
+- linkedIn: [Visit](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
+- Phone: +55 (12) 99647-4546
+
+I have knowledge in:
+
+### Programming Languages:
+
+ - PHP
+ - JavaScript
+ - TypeScript
+ - CSS
+ - Java
+ - C++
+ - C#
+ 
+### Frameworks and libraries:
+
+ - Angular
+ - Laravel
+ - React
+ - Bootstrap
+ - NodeJS ( APIs e APIs REST)
+ - ExpressJS
+ - WordPress
+ 
+ ### Databases and Cloud Services:
+ - MySQL
+ - MongoDB
+ - Firebase 
+ - Vercel
+ 
+### Agile methodologies
+ - Scrum
+ 
+### Tools
+- ConvertKit (newsletter)
+- Photoshop
+- Figma
+- ThunderBird
+
