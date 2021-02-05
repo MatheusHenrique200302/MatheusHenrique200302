@@ -14,23 +14,6 @@ Entre em contato comigo:
 ### Estastisticas do meu github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushenrique200302&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenrique200302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-English 
-
-
-## Hi,I'm Matheus Santos
-
-I am a curious and enthusiastic junior developer who loves to study programming, I live in Guaratinguetá-São Paulo. I am currently studying Systems Analysis and Development at Faculdade Tecnológica de Guaratinguetá Professor João Mod
-
-Contact me:
-
-- Email: mtssantos.contato@gmail.com
-- linkedIn: [Visit](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
-- Phone: +55 (12) 99647-4546
-
-I have knowledge in:
-
 ### Programming Languages:
 
  - PHP
