@@ -14,7 +14,7 @@ Entre em contato comigo:
 ### Estastisticas do meu github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushenrique200302&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenrique200302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programming Languages:
+### Linguagens de Programação:
 
  - PHP
  - JavaScript
@@ -24,7 +24,7 @@ Entre em contato comigo:
  - C++
  - C#
  
-### Frameworks and libraries:
+### Frameworks e bibliotecas:
 
  - Angular
  - Laravel
@@ -34,18 +34,18 @@ Entre em contato comigo:
  - ExpressJS
  - WordPress
  
- ### Databases and Cloud Services:
+ ### Bancos de dados e Cloud Services:
  - MySQL
  - MongoDB
  - Firebase 
  - Vercel
  
-### Agile methodologies
+### Metodologias Ágeis
  - Scrum
  
-### Tools
+### Ferramentas
 - ConvertKit (newsletter)
-- Photoshop
-- Figma
-- ThunderBird
+- Photoshop (edição de imagens)
+- Figma (ferramenta de UI/UX)
+- ThunderBird (Gerenciador de Email)
 
