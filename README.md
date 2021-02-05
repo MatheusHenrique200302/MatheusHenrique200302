@@ -10,40 +10,7 @@ Entre em contato comigo:
 - linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 - Cel: +55 (12) 99647-4546
 
-Tenho conhecimento em:
-
-### Linguagens de Programação:
- - PHP                
- - JavaScript
- - TypeScript
- - CSS
- - Java
- - C++
- - C#
- 
- ### Frameworks e bibliotecas:
- - Angular
- - Laravel
- - React
- - Bootstrap
- - NodeJS ( APIs e APIs REST)
- - ExpressJS
- - WordPress
- 
- ### Bancos de dados e Cloud Services:
- - MySQL
- - MongoDB
- - Firebase 
- - Vercel
-
-### Metodologias Ágeis:
-- Scrum
-
-### Ferramentas:
-- ConvertKit(newsletter)
-- Photoshop
-- Figma
-- ThunderBird
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushenrique200302)](https://github.com/anuraghazra/github-readme-stats)
 
 English 
 
