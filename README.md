@@ -27,11 +27,11 @@ Entre em contato comigo:
 ### Frameworks e bibliotecas:
 
  - Angular
- - Laravel
+ - NodeJS ( APIs e APIs REST)
  - React
  - Bootstrap
- - NodeJS ( APIs e APIs REST)
  - ExpressJS
+ - Java
  - WordPress
  
  ### Bancos de dados e Cloud Services:
