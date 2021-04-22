@@ -16,7 +16,6 @@ Entre em contato comigo:
 
 ### Linguagens de Programação:
 
- - PHP
  - JavaScript
  - TypeScript
  - CSS
