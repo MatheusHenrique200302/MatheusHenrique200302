@@ -27,11 +27,10 @@ Entre em contato comigo:
 
  - Angular
  - NodeJS ( APIs e APIs REST)
- - React
  - Bootstrap
  - ExpressJS
  - Java
- - WordPress
+
  
  ### Bancos de dados e Cloud Services:
  - MySQL
