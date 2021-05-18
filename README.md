@@ -3,7 +3,7 @@ Português
 ## Olá, Eu me chamo Matheus Santos
 
 Eu sou um desenvolvedor júnior curioso e entusiasmado que ama estudar programação, eu moro em Guaratinguetá-São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas Pela Faculdade Tecnológica de Guaratinguetá Professor João Mod
-Entusiasta de TypeScript, React, Laravel, Bootstrap e principalmente da MEAN STACK (MongoDB,ExpressJS,Angular e NodeJS).
+Entusiasta de TypeScript, React,Bootstrap, .NET CORE e principalmente da MEAN STACK (MongoDB,ExpressJS,Angular e NodeJS).
 
 Entre em contato comigo:
 
@@ -19,8 +19,6 @@ Entre em contato comigo:
  - JavaScript
  - TypeScript
  - CSS
- - Java
- - C++
  - C#
  
 ### Frameworks e bibliotecas:
@@ -29,11 +27,13 @@ Entre em contato comigo:
  - NodeJS ( APIs e APIs REST)
  - Bootstrap
  - ExpressJS
- - Java
+ - .NET Core
+
 
  
  ### Bancos de dados e Cloud Services:
  - MySQL
+ - Microsoft SQL Server
  - MongoDB
  - Firebase 
  - Vercel
