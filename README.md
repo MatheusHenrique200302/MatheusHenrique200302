@@ -40,8 +40,3 @@ Entre em contato comigo:
 ### Metodologias Ágeis
  - Scrum
  
-### Ferramentas
-- Photoshop (edição de imagens)
-- Figma (ferramenta de UI/UX)
-- ThunderBird (Gerenciador de Email)
-
