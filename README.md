@@ -35,14 +35,12 @@ Entre em contato comigo:
  - MySQL
  - Microsoft SQL Server
  - MongoDB
- - Firebase 
  - Vercel
  
 ### Metodologias Ágeis
  - Scrum
  
 ### Ferramentas
-- ConvertKit (newsletter)
 - Photoshop (edição de imagens)
 - Figma (ferramenta de UI/UX)
 - ThunderBird (Gerenciador de Email)
