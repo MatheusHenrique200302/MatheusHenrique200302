@@ -24,9 +24,8 @@ Entre em contato comigo:
 ### Frameworks e bibliotecas:
 
  - Angular
- - NodeJS ( APIs e APIs REST)
+ - NodeJS com ExpressJS( APIs e APIs REST)
  - Bootstrap
- - ExpressJS
  - .NET Core
 
 
@@ -35,7 +34,6 @@ Entre em contato comigo:
  - MySQL
  - Microsoft SQL Server
  - MongoDB
- - Vercel
  
 ### Metodologias Ágeis
  - Scrum
